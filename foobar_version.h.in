@@ -1,0 +1,4 @@
+#ifndef FOOBAR_VERSION_H_
+#define FOOBAR_VERSION_H_
+#define FOOBAR_VERSION "@FOOBAR_VERSION@"
+#endif  /* FOOBAR_VERSION_H_ */
