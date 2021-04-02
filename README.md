@@ -30,3 +30,7 @@ version string header file in a robust way. In particular, it:
 
   - Warns if the version cannot be determined from Git tags and proceeds using
     a default version of "v0.0.0-unknown".
+
+## License
+
+This example is licensed under the MIT license. See [LICENSE](LICENSE).
